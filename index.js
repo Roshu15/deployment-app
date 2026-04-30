@@ -28,7 +28,7 @@ app.get("/info", (req, res) => {
     res.json({
         name: "Deployment App",
         version: "1.0.0",
-        author: "Your Name"
+        author: "Roshani Chavan"
     });
 });
 
